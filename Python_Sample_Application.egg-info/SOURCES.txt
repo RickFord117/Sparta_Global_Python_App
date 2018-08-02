@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+Python_Sample_Application.egg-info/PKG-INFO
+Python_Sample_Application.egg-info/SOURCES.txt
+Python_Sample_Application.egg-info/dependency_links.txt
+Python_Sample_Application.egg-info/top_level.txt
+test/test_endpoints.py

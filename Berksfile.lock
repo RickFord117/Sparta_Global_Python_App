@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: git@github.com:RickFord117/Sparta_Global_Nginx.git
+    revision: 61355b1ead3fe1f4fd47fdb17423bc9d035814d8
+  python
+    git: git@github.com:RickFord117/Sparta_global_python.git
+    revision: 2bc2ea5cfbe5be0b795b0362377991490b17d839
+
+GRAPH
+  nginx (0.1.0)
+  python (0.1.2)

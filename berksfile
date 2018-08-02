@@ -1,0 +1,4 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'python', git: "git@github.com:RickFord117/Sparta_global_python.git"
+cookbook 'nginx', git: "git@github.com:RickFord117/Sparta_Global_Nginx.git"
