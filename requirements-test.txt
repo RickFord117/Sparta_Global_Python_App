@@ -1,5 +1,5 @@
 # Test harness
-pytest==2.5.2
+pytest==3.0.0
 # Coverage
 pytest-cov==1.6
 # HTTP Fixtures
