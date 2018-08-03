@@ -10,7 +10,7 @@ https://developer.uber.com/
 What Is This?
 -------------
 
-This is a simple Python/Flask application intended to provide a working example of Uber's external API. The goal of these endpoints is to be simple, well-documented and to provide a base for developers to develop other applications off of.
+This is a simple development environment that uses a Python/Flask application developed by Uber to demonstrate testing and production environments within an automation pipeline
 
 
 How To Use This
@@ -41,7 +41,7 @@ If you want to work on this application we’d love your pull requests and ticke
 1. If you open up a ticket, please make sure it describes the problem or feature request fully.
 2. If you send us a pull request, make sure you add a test for what you added, and make sure the full test suite runs with `make test`.
 
-Deploy to Heroku
+Deploy to AWS
 ----------------
 
 Click the button below to set up this sample app on Heroku:
